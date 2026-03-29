@@ -1,0 +1,13 @@
+# API keys and secrets
+kaggle.json
+
+# Environment
+.env
+
+# Python bytecodes
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/

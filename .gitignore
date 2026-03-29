@@ -1,0 +1,16 @@
+# IDE settings
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+
+# Local Settings
+local.properties
+kaggle.json
+
+# Build outputs
+/build/
+/bin/
