@@ -11,6 +11,9 @@ __pycache__/
 local.properties
 kaggle.json
 
+# PDF (to be kept only locally)
+"Mobile App/Skin Sense - Code Bros.pdf"
+
 # Build outputs
 /build/
 /bin/
